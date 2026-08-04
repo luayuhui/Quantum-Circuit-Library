@@ -8,8 +8,8 @@
 ## 📌 Project Overview
 The **Quantum Circuit Library** is a GUI application developed to simulate and demonstrate fundamental quantum mechanics concepts using IBM's Qiskit SDK and the `AerSimulator` backend.
 
-![Uploading quantum_circuit_library_GUI.png…]()
-
+## Interface Preview
+![Simulator Dashboard](quantum_circuit_library_GUI.png)
 
 The application allows users to explore:
 1. **Superposition** (1-qubit Hadamard transformation)
